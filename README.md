@@ -133,8 +133,8 @@ The project can be run locally without installing additional JavaScript dependen
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/mtkach09/unitedforsmiles.v2.git
-cd unitedforsmiles.v2
+git clone https://github.com/mtkach09/United-for-Smiles-Website-Final.git
+cd United-for-Smiles-Website-Final
 ```
 
 **2. Start a local server**
